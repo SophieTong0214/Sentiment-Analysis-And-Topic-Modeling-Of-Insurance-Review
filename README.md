@@ -39,4 +39,21 @@ Optimize marketing strategies: Tailor marketing efforts based on sentiment and t
 
 
 
-https://github.com/SophieTong0214/Sentiment_Analysis_of_Insurance_Review/blob/main/ProjectImg/1.png
+
+
+
+## Appendix
+
+<p align="center">
+  <img src="https://github.com/SophieTong0214/Sentiment_Analysis_of_Insurance_Review/blob/main/ProjectImg/1.png" alt="1" width="400">
+  <img src="https://github.com/SophieTong0214/Sentiment_Analysis_of_Insurance_Review/blob/main/ProjectImg/2.png" alt="2" width="400">
+  <img src="https://github.com/SophieTong0214/Sentiment_Analysis_of_Insurance_Review/blob/main/ProjectImg/3.png" alt="3" width="400">
+  <img src="https://github.com/SophieTong0214/Sentiment_Analysis_of_Insurance_Review/blob/main/ProjectImg/4.png" alt="4" width="400">
+  <img src="https://github.com/SophieTong0214/Sentiment_Analysis_of_Insurance_Review/blob/main/ProjectImg/5.png" alt="5" width="400">
+   <img src="https://github.com/SophieTong0214/Sentiment_Analysis_of_Insurance_Review/blob/main/ProjectImg/8.png" alt="6" width="400">
+  <img src="https://github.com/SophieTong0214/Sentiment_Analysis_of_Insurance_Review/blob/main/ProjectImg/6.png" alt="7" width="400">
+  <img src="https://github.com/SophieTong0214/Sentiment_Analysis_of_Insurance_Review/blob/main/ProjectImg/7.png" alt="8" width="400">
+  <img src="https://github.com/SophieTong0214/Sentiment_Analysis_of_Insurance_Review/blob/main/ProjectImg/9.png" alt="9" width="400">
+  <img src="https://github.com/SophieTong0214/Sentiment_Analysis_of_Insurance_Review/blob/main/ProjectImg/10.png" alt="10" width="400">
+   <img src="https://github.com/SophieTong0214/Sentiment_Analysis_of_Insurance_Review/blob/main/ProjectImg/11.png" alt="11" width="800">
+</p>
