@@ -1,4 +1,4 @@
-# Sentiment_Analysis_of_Insurance_Review
+# Sentiment Analysis of Insurance Review
 
 ## Project Overview
 ### Data Overview:
@@ -36,9 +36,6 @@ Analyzed sentiment distribution by topic: Revealed sentiment tendencies within e
 Improve customer service: Address issues highlighted in negative sentiment reviews.
 Enhance product offerings: Based on topics identified, improve products/services to meet customer needs.
 Optimize marketing strategies: Tailor marketing efforts based on sentiment and topic insights to resonate with customers.
-
-
-
 
 
 
